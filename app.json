@@ -1,0 +1,8 @@
+{
+  "name": "todo-manager",
+  "description": "TODO の管理",
+  "repository": "",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}

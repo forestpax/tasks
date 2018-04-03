@@ -1,7 +1,7 @@
 {
   "name": "todo-manager",
   "description": "TODO の管理",
-  "repository": "",
+  "repository": "https://github.com/forestpax/todo-manager",
   "logo": "",
   "keywords": ["node"],
   "image": "heroku/nodejs"
